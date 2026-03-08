@@ -69,7 +69,7 @@ içermektedir.
 
 Çalışma **3 ana aşamada** gerçekleştirilmiştir.
 
-### 1️⃣ Veri Keşfi (Exploratory Data Analysis)
+### Veri Keşfi
 
 * Eksik veri analizi
 * Aykırı değer kontrolü
@@ -77,7 +77,7 @@ içermektedir.
 * Veri temizleme işlemleri
 
 
-### 2️⃣ Veri Görselleştirme
+### Veri Görselleştirme
 
 * İlçe bazlı tüketim karşılaştırmaları
 * Mevsimsel tüketim grafikleri
@@ -92,7 +92,7 @@ outputs/figures/
 klasöründe bulunmaktadır.
 
 
-### 3️⃣ Veri Hikayesi (Data Storytelling)
+### Veri Hikayesi
 
 Bu aşamada:
 
@@ -134,6 +134,9 @@ cd case_study_02
 pip install -r requirements.txt
 jupyter notebook
 ```
+## Veriseti Linki:
+
+https://drive.google.com/file/d/11-ACN608r8xHKxaH_4if6AR31XD9Cief/view?usp=sharing
 
 Notebook dosyalarının **sırasıyla çalıştırılması önerilir**.
 
