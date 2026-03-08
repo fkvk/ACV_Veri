@@ -30,7 +30,7 @@ data/elektrik_veri.xlsx
 
 Excel dosyası **5 farklı sayfadan** oluşmaktadır.
 
-### 1️⃣ Tahsilat
+### 1. Tahsilat
 
 * **636,993 ödeme kaydı**
 * Ödeme kanalları:
@@ -40,13 +40,13 @@ Excel dosyası **5 farklı sayfadan** oluşmaktadır.
   * Mahsup
 * Her satır **bir ödeme işlemini** temsil eder.
 
-### 2️⃣ Tahsilat 1
+### 2. Tahsilat 1
 
 * **917,632 fatura kaydı**
 * Faturaların **zamanında veya geç ödenme bilgisi**
 * Yaklaşık **%86 zamanında ödeme oranı**
 
-### 3️⃣ Tahakkuk (3 ayrı ilçe sayfası)
+### 3. Tahakkuk (3 ayrı ilçe sayfası)
 
 Toplam **1.18 milyon tüketim kaydı** içerir.
 
